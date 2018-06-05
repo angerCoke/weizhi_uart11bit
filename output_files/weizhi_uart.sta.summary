@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -2.847
+TNS   : -89.995
+
+Type  : Slow 1200mV 85C Model Setup 'uart:inst|my_uart_rx:my_uart_rx|rx_int'
+Slack : -2.317
+TNS   : -136.665
+
+Type  : Slow 1200mV 85C Model Setup 'data_select:inst5|change'
+Slack : -1.274
+TNS   : -52.320
+
+Type  : Slow 1200mV 85C Model Hold 'uart:inst|my_uart_rx:my_uart_rx|rx_int'
+Slack : -0.035
+TNS   : -0.035
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'data_select:inst5|change'
+Slack : 0.811
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -62.480
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'uart:inst|my_uart_rx:my_uart_rx|rx_int'
+Slack : -1.487
+TNS   : -105.577
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'data_select:inst5|change'
+Slack : -1.487
+TNS   : -98.142
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -2.639
+TNS   : -83.078
+
+Type  : Slow 1200mV 0C Model Setup 'uart:inst|my_uart_rx:my_uart_rx|rx_int'
+Slack : -2.136
+TNS   : -125.453
+
+Type  : Slow 1200mV 0C Model Setup 'data_select:inst5|change'
+Slack : -1.013
+TNS   : -35.147
+
+Type  : Slow 1200mV 0C Model Hold 'uart:inst|my_uart_rx:my_uart_rx|rx_int'
+Slack : 0.093
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'data_select:inst5|change'
+Slack : 0.637
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -62.480
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'uart:inst|my_uart_rx:my_uart_rx|rx_int'
+Slack : -1.487
+TNS   : -105.577
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'data_select:inst5|change'
+Slack : -1.487
+TNS   : -101.363
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.687
+TNS   : -18.067
+
+Type  : Fast 1200mV 0C Model Setup 'uart:inst|my_uart_rx:my_uart_rx|rx_int'
+Slack : -0.602
+TNS   : -23.264
+
+Type  : Fast 1200mV 0C Model Setup 'data_select:inst5|change'
+Slack : -0.496
+TNS   : -17.884
+
+Type  : Fast 1200mV 0C Model Hold 'uart:inst|my_uart_rx:my_uart_rx|rx_int'
+Slack : 0.068
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'data_select:inst5|change'
+Slack : 0.810
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -45.596
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'uart:inst|my_uart_rx:my_uart_rx|rx_int'
+Slack : -1.000
+TNS   : -71.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'data_select:inst5|change'
+Slack : -1.000
+TNS   : -66.000
+
+------------------------------------------------------------
